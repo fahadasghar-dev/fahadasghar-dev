@@ -26,8 +26,8 @@ WhatsApp receipts and an AI assistant that answers from live shop data. Phone-fi
 
 - Oracle APEX + PL/SQL packages on Oracle Cloud (OCI)
 - WhatsApp Cloud API receipts and a customer reply bot
-- AI coding agents with set roles did the build work under my direction; I own the design, business rules and testing
-- **Build log (every change, date and reason):** [dukan-manager-buildlog](https://github.com/fahadasghar-dev/dukan-manager-buildlog)
+- Designed and built end to end: business rules, PL/SQL packages, APEX screens, server setup and testing
+- **Build log (every change with its date):** [dukan-manager-buildlog](https://github.com/fahadasghar-dev/dukan-manager-buildlog)
 
 ### Experience
 - **Senior Oracle APEX Developer**, Macter International Limited (2024 - now)
