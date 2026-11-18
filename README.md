@@ -29,6 +29,14 @@ WhatsApp receipts and an AI assistant that answers from live shop data. Phone-fi
 - Designed and built end to end: business rules, PL/SQL packages, APEX screens, server setup and testing
 - **Build log (every change with its date):** [dukan-manager-buildlog](https://github.com/fahadasghar-dev/dukan-manager-buildlog)
 
+### Retail360
+A point-of-sale app for marts, pharmacies and grocery stores.
+Barcode billing with fast scanning, receipt and label printing, purchases, stock with expiry dates,
+suppliers, employees and salary, more than one counter, and roles and permissions.
+An AI assistant answers sales, stock and salary questions, but only for the user's own shop and only what their role is allowed to see.
+
+- Oracle APEX + PL/SQL packages on Oracle Cloud (OCI), multi-tenant (each mart sees only its own data)
+
 ### Experience
 - **Senior Oracle APEX Developer**, Macter International Limited (2024 - now)
 - **Oracle Developer**, Lucky Textile Mills Limited (2024)
