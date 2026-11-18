@@ -30,7 +30,7 @@ WhatsApp receipts and an AI assistant that answers from live shop data. Phone-fi
 - **Build log (every change with its date):** [dukan-manager-buildlog](https://github.com/fahadasghar-dev/dukan-manager-buildlog)
 
 ### Retail360
-A point-of-sale app for marts, pharmacies and grocery stores.
+A point-of-sale app for marts, pharmacies and grocery stores, now in real use.
 Barcode billing with fast scanning, receipt and label printing, purchases, stock with expiry dates,
 suppliers, employees and salary, more than one counter, and roles and permissions.
 An AI assistant answers sales, stock and salary questions, but only for the user's own shop and only what their role is allowed to see.
