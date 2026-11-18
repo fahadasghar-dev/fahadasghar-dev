@@ -36,6 +36,7 @@ suppliers, employees and salary, more than one counter, and roles and permission
 An AI assistant answers sales, stock and salary questions, but only for the user's own shop and only what their role is allowed to see.
 
 - Oracle APEX + PL/SQL packages on Oracle Cloud (OCI), multi-tenant (each mart sees only its own data)
+- **Screens and features:** [retail360](https://github.com/fahadasghar-dev/retail360)
 
 ### Experience
 - **Senior Oracle APEX Developer**, Macter International Limited (2024 - now)
